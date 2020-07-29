@@ -14,13 +14,6 @@ This repository helps seting up a Mac by installing all kinds of apps and config
 3. Sign in to all things
 4. Restart your computer
 
-## More commands
-
-`chflags nohidden ~/Library`
-`defaults write com.apple.finder AppleShowAllFiles YES`
-`defaults write com.apple.finder ShowPathbar -bool true`
-`defaults write com.apple.finder ShowStatusBar -bool true`
-
 ## Inspired by...
 
-This repository was inspired by [Duncan's Dotfiles](https://github.com/damcclean/dotfiles).
+This repository was inspired by [Duncan's Dotfiles](https://github.com/damcclean/dotfiles) and [Dries' Dotfiles](https://github.com/driesvints/dotfiles).
