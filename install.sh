@@ -54,6 +54,7 @@ homebrew_cask_packages=(
   "firefox-developer-edition"
   "github"
   "iterm2"
+  "lastpass"
   "microsoft-edge-dev"
   "slack"
   "spotify"
