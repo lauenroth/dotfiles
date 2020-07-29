@@ -83,7 +83,6 @@ brew services start mysql
 # Installing Global Node Dependecies
 echo "Installing Global Node Dependecies"
 npm install -g @vue/cli
-npm install -g @nuxt/cli
 npm install -g cross-env
 npm install -g heroku
 npm install -g netlify-cli
