@@ -49,14 +49,16 @@ echo "Installing Homebrew cask packages"
 
 homebrew_cask_packages=(
   "authy"
+  "docker"
   "brave"
-  "firefox"
-  "flux"
+  "firefox-developer-edition"
   "github"
   "iterm2"
+  "microsoft-edge-dev"
   "slack"
   "spotify"
   "tableplus"
+  "visual-studio-code"
 )
 
 for homebrew_cask_package in "${homebrew_cask_packages[@]}"; do
